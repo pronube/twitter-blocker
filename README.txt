@@ -9,4 +9,4 @@ Usage
 
 or 
 
-run setart.sh
+run start.sh
