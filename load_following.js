@@ -14,7 +14,7 @@ const getFriends = () =>
 
 async function main() {
   const friends = await getFriends();
-  await fs.writeFile('follows.json', JSON.stringify(friends));
+  await fs.writeFile('following.json', JSON.stringify(friends));
 }
 
 main();
