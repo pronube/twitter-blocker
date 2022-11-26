@@ -1,0 +1,19 @@
+{
+  "name": "twitter-blocker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "licence": "",
+  "dependencies": {
+    "@types/twitter": "^1.7.0",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {
+    "prettier": "^2.0.2"
+  }
+}
