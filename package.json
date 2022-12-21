@@ -1,13 +1,13 @@
 {
   "name": "twitter-blocker",
-  "version": "1.0.0",
-  "description": "",
+  "version": "2.0.0",
+  "description": "A twitter auto blocking script",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "B4kedBr3ad",
   "licence": "",
   "dependencies": {
     "@types/twitter": "^1.7.0",
@@ -15,5 +15,14 @@
   },
   "devDependencies": {
     "prettier": "^2.0.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/B4kedBr3ad/twitter-blocker.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/B4kedBr3ad/twitter-blocker/issues"
+  },
+  "homepage": "https://github.com/B4kedBr3ad/twitter-blocker/README.md"
 }
