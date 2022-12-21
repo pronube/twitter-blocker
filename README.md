@@ -30,7 +30,7 @@ Usage(for replit users)
 Run it 24/7
 =====
 
-1. Get the URL of this Repl. This can be obtained by running index.js. (In most cases, this is `TWITTER-BLOCKER.<YOUR_REPLIT_USERNAME>.repl.co`.
+1. Get the URL of this Repl. This can be obtained by running index.js. (In most cases, this is `twitter-blocker.<YOUR_REPLIT_USERNAME>.repl.co`.
 2. Create a [cron-job.org](https://cron-job.org) user
 3. Send HTTP requests to the URL obtained in step 1 every 5 minutes
 4. Set up `/run` to send HTTP requests to any minute HTTP request. This is recommended to be about 30 minutes, as too short a time will be caught by Twitter's API restrictions.
