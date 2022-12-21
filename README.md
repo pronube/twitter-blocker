@@ -14,5 +14,3 @@ Usage
 
 Replit
 =====
-
-If you want to run it on replit, please visit [here](https://GitHub.com/B4kedBr3ad/twitter-blocker-replit)
