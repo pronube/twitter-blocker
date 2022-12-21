@@ -1,9 +1,9 @@
-#!/bin/bash/
-echo "| installing packages"
-npm i twitter
-echo "| loading followers"
-node follow.js
-echo "| loaded followers"
-echo "|"
-echo "| start blocking!"
-node index.js  #while true; do node .; done
+#!/bin/bash
+
+current_time=$(date +"%H")
+
+if [ "$current_time" == "12" ]; then
+  node ./src/utils/follow.js
+fi
+
+node ./src/utils/block.js
