@@ -7,5 +7,6 @@ exports.auth = {
 
 exports.blacklist_search_query = [
   'NFT',
-  '#bitcoin'
+  '#bitcoin',
+  '@binance'
 ];
