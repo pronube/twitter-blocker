@@ -1,3 +1,4 @@
+ENGLISH  | [日本語](README-ja.md)
 [![GitHub Clones](https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count&url=https://gist.githubusercontent.com/B4kedBr3ad/9995acef0933a1f9ab38d3cc93e9653c/raw/clone.json&logo=github)](https://github.com/MShawon/github-clone-count-badge)
 ![Today Views](https://views.whatilearened.today/views/github/B4kedBr3ad/twitter-autoblock.svg)
 
@@ -39,5 +40,5 @@ Run it 24/7
 Etc 
 =====
 - When /latest_run is accessed, the browser will show the last time it was started.
-- The list of users you are following is displayed in `/src/data/follow.json`. This user will not be blocked even if he/she uses the specified word. If you want to block them regardless, run `/src/main/block.js` instead of `/src/main/follow.js`.
+- The list of users you are following is displayed in `/src/data/follow.json`. This user will not be blocked even if he/she uses the specified word. 
 - When running in Replit, do not make the auto-execution too short, or the Replit side will force the execution to stop and you will not be able to access repl for about 30 minutes.
